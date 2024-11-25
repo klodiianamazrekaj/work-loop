@@ -1,0 +1,1 @@
+export const AUTH_COOKIE = "cwk-work-loop-session";
